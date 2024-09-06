@@ -4,5 +4,5 @@
 
 ## Code summary
 
-    * This program asks the user for 3 numbers through prompts and stores them in variables. It then analyzes the numbers to identify the largest, middle, and smallest values. The program prints the numbers in both descending (from largest to smallest) and ascending (from smallest to largest) order. If all three numbers are equal, it displays a message stating that all the numbers are the same.
+  * This program asks the user for 3 numbers through prompts and stores them in variables. It then analyzes the numbers to identify the largest, middle, and smallest values. The program prints the numbers in both descending (from largest to smallest) and ascending (from smallest to largest) order. If all three numbers are equal, it displays a message stating that all the numbers are the same.
 
